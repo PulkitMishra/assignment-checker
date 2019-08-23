@@ -1,0 +1,9 @@
+cd attachments
+javac Reg201.java
+java Reg201
+cd ..
+javac FileContentChecker.java
+java FileContentChecker
+cd attachments
+javac Reg202.java
+java Reg202
